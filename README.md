@@ -5,7 +5,7 @@ This repository demonstrates a minimal Google Socialite authentication integrati
 -   [`database/migrations/2024_12_31_075619_add_socialite_fields_to_users.php`](./database/migrations/2024_12_31_075619_add_socialite_fields_to_users.php)
 -   [`config/services.php`](config/services.php)
 -   [`routes/web.php`](routes/web.php)
--   [`resources/views/welcome.php`](resources/views/welcome.php)
+-   [`resources/views/welcome.blade.php`](resources/views/welcome.blade.php)
 -   [`tests/Feature/AuthRoutesTest.php`](tests/Feature/AuthRoutesTest.php)
 
 ## Running locally
